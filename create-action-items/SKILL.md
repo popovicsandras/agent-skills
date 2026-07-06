@@ -1,5 +1,5 @@
 ---
-name: hyland-create-action-items
+name: create-action-items
 description: Create a structured action plan from documents by extracting actionable items, categorizing them, and formatting as Markdown with verbose descriptions and priorities
 disable-model-invocation: true
 ---

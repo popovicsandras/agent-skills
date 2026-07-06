@@ -1,5 +1,5 @@
 ---
-name: hyland-create-jira-items
+name: create-jira-items
 description: Create Jira issues from a structured feedback markdown file using Atlassian MCP, ensuring proper title, description, and priority mapping
 disable-model-invocation: true
 ---

@@ -1,5 +1,5 @@
 ---
-name: hyland-create-rfc
+name: create-rfc
 description: Create a Request for Comments (RFC) for exploring options and building consensus before making architectural decisions
 disable-model-invocation: true
 ---

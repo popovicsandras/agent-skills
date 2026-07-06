@@ -1,5 +1,5 @@
 ---
-name: hyland-address-gh-reviews
+name: address-gh-reviews
 description: Address GitHub PR review comments (filtered by reactions). Use when asked to address PR comments, review feedback, fix issues from GitHub reviews, or work on thumbs-up reactions from pull requests.
 argument-hint: <pr-url>
 disable-model-invocation: true

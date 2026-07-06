@@ -1,5 +1,5 @@
 ---
-name: hyland-create-adr
+name: create-adr
 description: Create an Architecture Decision Record (ADR) following Satori's standard format with quality attribute-based rationale and consequences
 disable-model-invocation: true
 ---
